@@ -3,7 +3,6 @@
 ## Overview
 - [Docker Commands](#docker-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing Docker](#installing-docker)
   - [Checking Docker Version](#checking-docker-version)
   - [Pulling an Image](#pulling-an-image)
@@ -19,10 +18,6 @@
   - [Docker Compose](#docker-compose)
   - [Docker Networking](#docker-networking)
   - [Docker Volumes](#docker-volumes)
-
-## Introduction
-
-Docker is a platform for developing, shipping, and running applications in containers. Containers allow you to package an application with all its dependencies into a standardized unit for software development.
 
 ## Installing Docker
 

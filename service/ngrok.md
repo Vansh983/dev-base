@@ -3,7 +3,6 @@
 ## Overview
 - [ngrok Commands](#ngrok-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing ngrok](#installing-ngrok)
   - [Connecting ngrok to Your Account](#connecting-ngrok-to-your-account)
   - [Starting an HTTP Tunnel](#starting-an-http-tunnel)
@@ -13,10 +12,6 @@
   - [Inspecting Traffic](#inspecting-traffic)
   - [Configuring ngrok with a YAML File](#configuring-ngrok-with-a-yaml-file)
   - [Stopping ngrok](#stopping-ngrok)
-
-## Introduction
-
-ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. It captures and analyzes all traffic over the tunnel for later inspection and replay.
 
 ## Installing ngrok
 

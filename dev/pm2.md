@@ -3,7 +3,6 @@
 ## Overview
 - [PM2 Commands](#pm2-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing PM2](#installing-pm2)
   - [Checking PM2 Version](#checking-pm2-version)
   - [Starting an Application](#starting-an-application)
@@ -17,10 +16,6 @@
   - [Deleting an Application](#deleting-an-application)
   - [Getting Application Info](#getting-application-info)
   - [Generating a Process List](#generating-a-process-list)
-
-## Introduction
-
-PM2 is a production process manager for Node.js applications. It allows you to keep your applications alive forever, reload them without downtime, and facilitate common system admin tasks.
 
 ## Installing PM2
 

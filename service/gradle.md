@@ -3,7 +3,6 @@
 ## Overview
 - [Gradle Commands](#gradle-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing Gradle](#installing-gradle)
   - [Checking Gradle Version](#checking-gradle-version)
   - [Creating a New Gradle Project](#creating-a-new-gradle-project)
@@ -18,10 +17,6 @@
   - [Generating a Gradle Wrapper](#generating-a-gradle-wrapper)
   - [Viewing Dependency Tree](#viewing-dependency-tree)
   - [Updating Dependencies](#updating-dependencies)
-
-## Introduction
-
-Gradle is an open-source build automation tool focused on flexibility and performance. It is used for building, testing, and deploying software projects.
 
 ## Installing Gradle
 

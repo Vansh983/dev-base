@@ -3,7 +3,6 @@
 ## Overview
 - [Emacs Commands](#emacs-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing Emacs](#installing-emacs)
   - [Starting Emacs](#starting-emacs)
   - [Opening a File](#opening-a-file)
@@ -17,10 +16,6 @@
   - [Customizing Emacs](#customizing-emacs)
   - [Installing Packages](#installing-packages)
   - [Using Emacs Help System](#using-emacs-help-system)
-
-## Introduction
-
-Emacs is a highly customizable and extensible text editor. It is known for its powerful editing capabilities and a vast array of features that can be extended through Emacs Lisp (elisp) programs.
 
 ## Installing Emacs
 

@@ -1,11 +1,8 @@
-Here is a markdown document with essential commands for managing Python, including an overview section with links to each command and a brief introduction.
-
 # Python Commands
 
 ## Overview
 - [Python Commands](#python-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing Python](#installing-python)
   - [Checking Python Version](#checking-python-version)
   - [Running a Python Script](#running-a-python-script)
@@ -18,10 +15,6 @@ Here is a markdown document with essential commands for managing Python, includi
   - [Freezing Package Versions](#freezing-package-versions)
   - [Upgrading pip](#upgrading-pip)
   - [Checking for Package Vulnerabilities](#checking-for-package-vulnerabilities)
-
-## Introduction
-
-Python is a high-level, interpreted programming language known for its readability and versatility. It is widely used in web development, data science, automation, and many other fields.
 
 ## Installing Python
 

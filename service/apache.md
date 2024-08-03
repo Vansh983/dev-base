@@ -3,7 +3,6 @@
 ## Overview
 - [Apache Commands for Linux](#apache-commands-for-linux)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing Apache](#installing-apache)
   - [Starting Apache](#starting-apache)
   - [Stopping Apache](#stopping-apache)
@@ -17,11 +16,7 @@
   - [Disabling a Module](#disabling-a-module)
   - [Viewing Apache Logs](#viewing-apache-logs)
   - [Configuring Virtual Hosts](#configuring-virtual-hosts)
-
-## Introduction
-
-Apache is a widely-used open-source web server software. It is known for its role in serving HTTP requests, providing a secure, efficient, and extensible server that provides HTTP services in sync with the current HTTP standards.
-
+  
 ## Installing Apache
 
 To install Apache on a Debian-based Linux system (e.g., Ubuntu):

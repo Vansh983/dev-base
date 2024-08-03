@@ -3,7 +3,6 @@
 ## Overview
 - [Redis Commands](#redis-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing Redis](#installing-redis)
   - [Starting Redis Server](#starting-redis-server)
   - [Stopping Redis Server](#stopping-redis-server)
@@ -20,10 +19,6 @@
   - [Saving Data to Disk](#saving-data-to-disk)
   - [Loading Data from Disk](#loading-data-from-disk)
   - [Monitoring Redis](#monitoring-redis)
-
-## Introduction
-
-Redis is an open-source, in-memory data structure store used as a database, cache, and message broker. It supports data structures such as strings, hashes, lists, sets, and more.
 
 ## Installing Redis
 

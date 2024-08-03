@@ -3,7 +3,6 @@
 ## Overview
 - [SSH Commands](#ssh-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing SSH](#installing-ssh)
   - [Generating SSH Keys](#generating-ssh-keys)
   - [Copying SSH Key to Remote Server](#copying-ssh-key-to-remote-server)
@@ -16,10 +15,6 @@
   - [Managing Known Hosts](#managing-known-hosts)
   - [Disabling SSH Root Login](#disabling-ssh-root-login)
   - [Restarting SSH Service](#restarting-ssh-service)
-
-## Introduction
-
-SSH (Secure Shell) is a protocol for securely connecting to a remote server or computer over an unsecured network. It provides a secure channel over an unsecured network by using encryption.
 
 ## Installing SSH
 

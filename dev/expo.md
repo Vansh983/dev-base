@@ -3,7 +3,6 @@
 ## Overview
 - [Expo and EAS Commands](#expo-and-eas-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing Expo CLI](#installing-expo-cli)
   - [Checking Expo CLI Version](#checking-expo-cli-version)
   - [Creating a New Expo Project](#creating-a-new-expo-project)
@@ -16,10 +15,6 @@
   - [Running EAS Build](#running-eas-build)
   - [Managing EAS Builds](#managing-eas-builds)
   - [EAS Submit](#eas-submit)
-
-## Introduction
-
-Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React. EAS (Expo Application Services) provides additional services for building, submitting, and managing your Expo apps.
 
 ## Installing Expo CLI
 

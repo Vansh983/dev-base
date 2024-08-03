@@ -3,7 +3,6 @@
 ## Overview
 - [GCP Commands](#gcp-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing gcloud CLI](#installing-gcloud-cli)
   - [Initializing gcloud CLI](#initializing-gcloud-cli)
   - [Configuring gcloud CLI](#configuring-gcloud-cli)
@@ -17,10 +16,6 @@
   - [Managing Kubernetes Clusters](#managing-kubernetes-clusters)
   - [Viewing Logs](#viewing-logs)
   - [Billing and Account Management](#billing-and-account-management)
-
-## Introduction
-
-Google Cloud Platform (GCP) is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products. GCP offers a range of services including computing, storage, and machine learning.
 
 ## Installing gcloud CLI
 

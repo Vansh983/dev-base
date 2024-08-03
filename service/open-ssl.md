@@ -3,7 +3,6 @@
 ## Overview
 - [OpenSSL Commands](#openssl-commands)
   - [Overview](#overview)
-  - [Introduction](#introduction)
   - [Installing OpenSSL](#installing-openssl)
   - [Checking OpenSSL Version](#checking-openssl-version)
   - [Generating a Private Key](#generating-a-private-key)
@@ -17,10 +16,6 @@
   - [Extracting Certificates from a PFX File](#extracting-certificates-from-a-pfx-file)
   - [Checking Certificate Expiration](#checking-certificate-expiration)
   - [Creating a Certificate Chain](#creating-a-certificate-chain)
-
-## Introduction
-
-OpenSSL is a robust, full-featured open-source toolkit that implements the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols. It is widely used for securing communications over computer networks.
 
 ## Installing OpenSSL
 
